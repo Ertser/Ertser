@@ -1,16 +1,25 @@
-### Hi there 👋
+# :game_die: ¡Bienvenid@ a mi caverna! 
+¡Buenas! Me llamo Daniel, tengo 20 años y soy desarrollador Full Stack <sub>(aún no me he decidido)</sub>. Llevo desarrollando desde los 15 años y jamás he perdido oportunidad en expandir mi conocimiento.
 
-<!--
-**Ertser/Ertser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+He terminado hace poco un FPGS, pero eso no quita que continúe abriéndome paso curso a curso para aprender mucho más.
 
-Here are some ideas to get you started:
+## :scroll: Tabla de contenidos 
+- [Mis conocimientos](#books-mis-conocimientos)
+- [Mi paso por el mundo de la programación](#-mi-paso-por-el-mundo-de-la-programación)
+- [Mi lista TODO](#-mi-lista-todo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :books: Mis conocimientos 
+- HTML/CSS/JS
+- ReactJS
+- WordPress
+- Java (1.7+)
+- NodeJS
+- SQL / PSQL / TSQL
+
+## 🔭 Mi paso por el mundo de la programación 
+Desde Octubre del 2022 he estado trabajando en la empresa BODEGAS FUNDADOR como desarrollador Full Stack, aquí estoy aprendiendo a cómo desarrollar aplicaciones WEB en un entorno profesional y controlado. Además estoy acompañado de mi mejor amigo [Alberto Ramírez](https://github.com/Alrafe02).
+
+## 🌱 Mi lista TODO 
+- FPCE Ciberseguridad
+- Spring Core / Java Spring
+- AngularJS
