@@ -13,7 +13,10 @@ He terminado hace poco un FPGS, pero eso no quita que continúe abriéndome paso
 - WordPress
 - Java (1.7, 1.8, 17)
 - Jakarta EE 9
-- JPA e Hibernate
+- Spring / Spring Boot
+- JPA + Hibernate
+- JUnit 5 + Mockito
+- Dart
 - Node y Typescript.
 - SQL / PSQL / TSQL
 - Docker
@@ -23,6 +26,5 @@ Desde Octubre de 2022 estoy trabajando en la empresa BODEGAS FUNDADOR como desar
 
 ## 🌱 Mi lista TODO 
 - FPCE Ciberseguridad
-- Spring Boot
 - Angular
-- Flutter & Dart
+- Flutter
